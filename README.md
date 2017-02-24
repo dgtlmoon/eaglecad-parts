@@ -1,4 +1,4 @@
-# eaglecad-parts
+# EagleCAD Misc. Parts
 
 Misc collection of parts found in Europe for EagleCAD
 
